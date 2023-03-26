@@ -9,7 +9,7 @@
 ## Here are some ideas to get you started:
 
 - 🌱 I’m currently learning the MERN stack
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Web User Auth
 - 💬 Ask me about Java
 - ⚡ Fun fact: I have a bavarian accent
 

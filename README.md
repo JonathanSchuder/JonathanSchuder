@@ -8,9 +8,8 @@
 
 ## Here are some ideas to get you started:
 
-- 🌱 I’m currently learning the MERN stack
-- 🤔 I’m looking for help with Web User Auth
-- 💬 Ask me about Java
+- 🌱 I’m currently implementing a company codebase into a vectore store
+- 💬 Ask me about Volleyball
 - ⚡ Fun fact: I have a bavarian accent
 
 <!--

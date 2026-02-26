@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanschuder)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## Here are some ideas to get you started:
 
-- 🌱 I’m currently implementing a company codebase into a vector store
+- 🌱 I’m currently learning GO after 6 years of Java
 - 💬 Ask me about Volleyball
 - ⚡ Fun fact: I have a bavarian accent
 

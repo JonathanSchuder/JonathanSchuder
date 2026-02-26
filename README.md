@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanschuder)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Here are some ideas to get you started:
+## Here are some facts about me:
 
 - 🌱 I’m currently learning GO after 6 years of Java
 - 💬 Ask me about Volleyball
